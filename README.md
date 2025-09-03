@@ -1,4 +1,4 @@
-# 🎾 Pink-Pong-AI 💖
+# 🎾 Pink-Pong-AI 
 
 A stylish **Pong game** with keyboard controls and AI opponent.  
 Move your pink paddle using **Arrow Up** ⬆️ and **Arrow Down** ⬇️ keys, and compete against the AI-controlled paddle! 🤖
@@ -22,7 +22,5 @@ Move your pink paddle using **Arrow Up** ⬆️ and **Arrow Down** ⬇️ keys, 
 3. Use **Arrow Down** ⬇️ to move your paddle **down**.  
 4. Score points by making the ball pass the AI paddle. 🏆  
 
----
-
-## 📁 Project Structure
+--
 
