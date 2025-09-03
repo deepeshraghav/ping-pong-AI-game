@@ -25,4 +25,24 @@ Move your pink paddle using **Arrow Up** and **Arrow Down** keys, and compete ag
 ---
 
 ## Project Structure
+Pink-Pong-AI/
+│
+├─ pong.html # Main HTML file
+├─ style.css # CSS styling for the game
+└─ pong.js # Game logic and rendering
 
+
+---
+
+## Demo
+
+![Pink Pong Screenshot](screenshot.png)  
+*(Optional: add a screenshot of your game here)*
+
+---
+
+## Tech Stack
+
+- **HTML5 Canvas** – Game rendering
+- **JavaScript** – Game logic and controls
+- **CSS** – Styling and layout
