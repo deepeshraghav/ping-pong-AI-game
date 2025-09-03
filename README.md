@@ -22,22 +22,7 @@ Move your pink paddle using **Arrow Up** and **Arrow Down** keys, and compete ag
 3. Use **Arrow Down** to move your paddle **down**.  
 4. Score points by making the ball pass the AI paddle.  
 
----
 
-## Project Structure
-Pink-Pong-AI/
-│
-├─ pong.html # Main HTML file
-├─ style.css # CSS styling for the game
-└─ pong.js # Game logic and rendering
-
-
----
-
-## Demo
-
-![Pink Pong Screenshot](screenshot.png)  
-*(Optional: add a screenshot of your game here)*
 
 ---
 
